@@ -1,0 +1,268 @@
+body {
+  font-family: "Neue Machina";
+  font-size: 20px;
+  margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.colortext {
+  color: #0085FF
+}
+
+*,
+*:before,
+*:after,
+{
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  word-wrap:break-word;
+  margin: 0px;
+  margin-top: -400px;
+  font-size: 40px;
+
+}
+
+.header_inner {
+  margin-left: 700px;
+}
+
+.header_neinner {
+  margin-left: 700px;
+  margin-top: -500px;
+}
+
+.intro_2 {
+  margin-top: 300px;
+}
+
+.kvadrat_1 {
+  width: 333px;
+  height: 147px;
+  background: #B2DFFF;
+  border-radius: 20px;
+}
+
+.kvadrat_2 {
+  width: 333px;
+  height: 147px;
+  background: #B2DFFF;
+  border-radius: 20px;
+  margin-left: 450px;
+  margin-top: -171px;
+}
+.kvadrat_3 {
+  width: 333px;
+  height: 147px;
+  background: #B2DFFF;
+  border-radius: 20px;
+  margin-left: 900px;
+  margin-top: -171px;
+}
+
+.kvadrat_4 {
+  width: 333px;
+  height: 147px;
+  background: #B2DFFF;
+  border-radius: 20px;
+}
+
+.kvadrat_5 {
+  width: 333px;
+  height: 147px;
+  background: #B2DFFF;
+  border-radius: 20px;
+  margin-left: 450px;
+  margin-top: -171px;
+}
+
+.kvadrat_6 {
+  width: 333px;
+  height: 147px;
+  background: #B2DFFF;
+  border-radius: 20px;
+  margin-left: 900px;
+  margin-top: -171px;
+}
+
+.kvadrat_text {
+  margin-left: 120px;
+  top: 30px;
+  position: relative;
+  font-size: 20px;
+}
+
+.kvadrat_graphic_1 {
+  margin-left: 120px;
+  font-size: 15px;
+  top: 25px;
+  position: relative;
+  opacity: .50;
+}
+
+.photoshop {
+  width: 70px;
+  height: 70px;
+  margin-left: 30px;
+  margin-top: -25px;
+}
+
+.illustrator {
+  width: 70px;
+  height: 70px;
+  margin-left: 30px;
+  margin-top: -25px;
+}
+
+.premiere {
+  width: 70px;
+  height: 70px;
+  margin-left: 30px;
+  margin-top: -25px;
+}
+
+.lightroom {
+  width: 70px;
+  height: 70px;
+  margin-left: 30px;
+  margin-top: -25px;
+}
+
+.acrobat {
+  width: 70px;
+  height: 70px;
+  margin-left: 30px;
+  margin-top: -25px;
+}
+
+.xd {
+  width: 70px;
+  height: 70px;
+  margin-left: 30px;
+  margin-top: -25px;
+}
+
+.button_1 {
+  position: relative;
+  bottom: 235px;
+  left: 195px;
+  font-size: 15px;
+  color: #fff;
+  background: linear-gradient(to left, #00B4DB,#0083B0 ,#00B4DB);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-size: 200%;
+  transition: .5s;
+}
+
+.button_1:hover {
+  background-position: right;
+}
+
+.button_2 {
+  position: relative;
+  bottom: 70px;
+  left: 70px;
+  font-size: 15px;
+  color: #fff;
+  background: linear-gradient(to left, #00B4DB,#0083B0 ,#00B4DB);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-size: 200%;
+  transition: .5s;
+}
+
+.button_2:hover {
+  background-position: right;
+}
+
+.button_3 {
+  position: relative;
+  bottom: 235px;
+  left: 400px;
+  font-size: 15px;
+  color: #fff;
+  background: linear-gradient(to left, #00B4DB,#0083B0 ,#00B4DB);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-size: 200%;
+  transition: .5s;
+}
+
+.button_3:hover {
+  background-position: right;
+}
+
+.button_4 {
+  position: relative;
+  bottom: 70px;
+  left: 280px;
+  font-size: 15px;
+  color: #fff;
+  background: linear-gradient(to left, #00B4DB,#0083B0 ,#00B4DB);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-size: 200%;
+  transition: .5s;
+}
+
+.button_4:hover {
+  background-position: right;
+}
+
+.button_5 {
+  position: relative;
+  bottom: 235px;
+  left: 610px;
+  font-size: 15px;
+  color: #fff;
+  background: linear-gradient(to left, #00B4DB,#0083B0 ,#00B4DB);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-size: 200%;
+  transition: .5s;
+}
+
+.button_5:hover {
+  background-position: right;
+}
+
+.button_6 {
+  position: relative;
+  font-size: 15px;
+  bottom: 70px;
+  left: 490px;
+  color: #fff;
+  background: linear-gradient(to left, #00B4DB,#0083B0 ,#00B4DB);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-size: 200%;
+  transition: .5s;
+}
+
+.button_6:hover {
+  background-position: right;
+}
+
+img:hover {
+  animation: jump 1s ease infinite;
+}
+@keyframes jump {
+  50% { transform: translateY(-20px); }
+}
